@@ -1,4 +1,8 @@
 # Welcome to your Expo app 👋
+![Screenshot_2024-09-19-18-01-13-291_host exp exponent](https://github.com/user-attachments/assets/75b62879-bb90-4877-9870-d2e2a145f743)
+![Screenshot_2024-09-19-18-01-01-377_host exp exponent](https://github.com/user-attachments/assets/1d47e847-8993-43bd-912c-e9261a51b721)
+![Screenshot_2024-09-19-18-00-56-422_host exp exponent](https://github.com/user-attachments/assets/85f06d55-4b53-43a4-a2eb-07f2cbe85502)
+![Screenshot_2024-09-19-18-00-41-120_host exp exponent](https://github.com/user-attachments/assets/f3eaa4a0-31f0-4dfa-887b-276d7a276a7d)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
